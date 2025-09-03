@@ -1,12 +1,4 @@
-## Hi there 👋
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 - <!-- README.md for Ishan0520 -->
 
 <h1 align="center">Hi, I'm Ishan Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
@@ -46,11 +38,10 @@
 
 ### 📫 How to reach me
 - 📧 ishan623gupta@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ishangupta200)  
-- 💻 [GitHub](https://github.com/Ishan0520)  
+
 
 ### 😄 Pronouns
-He/Him
+She/Her
 
 ### ⚡ Fun fact
 I relax by jamming on my guitar, battling on the basketball court, exploring anime storyworlds, and capturing life in photographs!
